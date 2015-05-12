@@ -82,7 +82,7 @@
 							<i class="ico-ok ico-white circle-color-full"></i>
 							<div class="icons-box-vert-info">
 								<h3>Dónde comprar hosting</h3>
-								<p>Encuentra el servicio de hosting que mejor se adapte a tu proyecto y descubre todas las herramientas que tienes a tu disposición.</p>
+								<p>Compra el servicio de hosting que mejor se adapte a tu proyecto y descubre todas las herramientas que tienes a tu disposición.</p>
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -95,7 +95,7 @@
 							<i class="ico-ok ico-white circle-color-full"></i>
 							<div class="icons-box-vert-info">
 								<h3>Elegir hospedaje web</h3>
-								<p>Elige el hospedaje web más barato que te ofrezca las mejores garantías para mantener en todo momento tu proyecto online.</p>
+								<p>Contrata el hospedaje web más barato que te ofrezca las mejores garantías para mantener en todo momento tu proyecto online.</p>
 							</div>
 							<div class="clear"></div>
 						</div>
