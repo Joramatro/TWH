@@ -97,7 +97,7 @@ Destacado: <select name="destacado" id="destacado">
 				  <option value="S">Si</option>
 				</select><br><br>									
 Autor: <input type="text" id="autor" name="autor" size="25" maxlength="50" value="Pablo"/><br><br>	
-Google+: <input type="text" style="width: 433px;" id="googleAutor" name="googleAutor" value="meter página google +" size="250" maxlength="570"/><br><br>	
+Google+: <input type="text" style="width: 433px;" id="googleAutor" name="googleAutor" value="https://plus.google.com/105433436614688812196/about" size="250" maxlength="570"/><br><br>	
 Estrellas: <input type="text" id="estrellas" name="estrellas" size="5" maxlength="5"/><br><br>	
 	
 Titulo: <input type="text" style="width: 350px;" id="titulo" name="titulo" size="70" maxlength="70"/><br><br>
