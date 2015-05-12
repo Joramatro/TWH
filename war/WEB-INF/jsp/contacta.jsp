@@ -52,7 +52,7 @@
 				<div class="span3">
 					<div class="title"><h3>Información de Contacto</h3></div>
 					<p>
-						<b>Reservar Hotel Granada</b>
+						<b>Top Web Hosting</b>
 					</p>
 					<p>
 						The Triangle, Ranelagh
@@ -61,7 +61,7 @@
 						Dublin 6, Dublin, Irlanda
 					</p>	
 					<p>
-						Email: hola@reservarhotelgranada.com
+						Email: hola@topwebhosting.com
 					</p>
 				</div>
 				<!-- end: Contact Info -->		
@@ -110,12 +110,12 @@
 				<div class="span5" style="padding-bottom: 12px;">
 					<div class="title"><h3>Síguenos!</h3></div>
 					<ul class="social-bookmarks">
-						<li class="facebook"><a target="_blank" href="https://www.facebook.com/pages/Reservar-Hotel-Granada/693538744121790">facebook</a></li>
-						<li class="flickr"><a target="_blank" href="https://www.flickr.com/photos/reservarhotelgranada/">flickr</a></li>
-						<li class="googleplus"><a target="_blank" href="https://plus.google.com/+Reservarhotelgranada1">googleplus</a></li>
-						<li class="twitter"><a target="_blank" href="https://twitter.com/RHotelGranada">twitter</a></li>
-						<li class="yelp"><a target="_blank" href="http://rhotelgranada.yelp.es">yelp</a></li>
-						<li class="youtube"><a target="_blank" href="https://www.youtube.com/c/Reservarhotelgranada1">youtube</a></li>
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/">facebook</a></li>
+						<li class="flickr"><a target="_blank" href="https://www.flickr.com/">flickr</a></li>
+						<li class="googleplus"><a target="_blank" href="https://plus.google.com/">googleplus</a></li>
+						<li class="twitter"><a target="_blank" href="https://twitter.com/">twitter</a></li>
+						<li class="yelp"><a target="_blank" href="http://yelp.es">yelp</a></li>
+						<li class="youtube"><a target="_blank" href="https://www.youtube.com/">youtube</a></li>
 					</ul>
 				</div>
 				<!-- end: Social Sites -->							

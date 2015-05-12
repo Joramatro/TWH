@@ -15,7 +15,7 @@
 			<!-- start: Container -->
 			<div class="container">
 
-				<h1><i class="ico-suitcase ico-white"></i>Extras</h1>
+				<h1><i class="ico-cloud ico-white"></i>Extras</h1>
 
 			</div>
 			<!-- end: Container  -->

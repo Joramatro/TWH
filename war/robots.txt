@@ -1,4 +1,4 @@
-Sitemap: http://www.reservarhotelgranada.com/sitemap.xml
+Sitemap: http://www.topwebhosting.com/sitemap.xml
 
 User-Agent: *
 Allow: /ofertas/$

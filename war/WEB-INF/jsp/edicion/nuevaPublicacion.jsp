@@ -55,7 +55,7 @@
 	            		<span class="icon-bar"></span>
 	            		<span class="icon-bar"></span>
 	          		</a>
-					<a class="brand" href="/"><i class="ico-suitcase circle"></i>Reservar Hotel <span>Granada</span>.</a>
+					<a class="brand" href="/"><i class="ico-cloud circle"></i>Top Web <span>Hosting</span>.</a>
 	          		<div class="nav-collapse collapse">
 	            		<ul class="nav">
 							<li class="active">
@@ -96,8 +96,8 @@ Destacado: <select name="destacado" id="destacado">
 				  <option value="N">No</option>
 				  <option value="S">Si</option>
 				</select><br><br>									
-Autor: <input type="text" id="autor" name="autor" size="25" maxlength="50"/><br><br>	
-Google+: <input type="text" style="width: 433px;" id="googleAutor" name="googleAutor" value="https://plus.google.com/103018694195258076550?rel=author" size="250" maxlength="570"/><br><br>	
+Autor: <input type="text" id="autor" name="autor" size="25" maxlength="50" value="Pablo"/><br><br>	
+Google+: <input type="text" style="width: 433px;" id="googleAutor" name="googleAutor" value="meter página google +" size="250" maxlength="570"/><br><br>	
 Estrellas: <input type="text" id="estrellas" name="estrellas" size="5" maxlength="5"/><br><br>	
 	
 Titulo: <input type="text" style="width: 350px;" id="titulo" name="titulo" size="70" maxlength="70"/><br><br>
@@ -332,7 +332,7 @@ Script122: <input type="text" style="width: 600px;" id="script122" name="script1
 				<!-- start: Footer Menu Logo -->
 				<div class="span2">
 					<div id="footer-menu-logo">
-						<div id="logo-chart"></div><a class="brand" href="/">RH<span>MAD</span>.</a>
+						<div id="logo-chart"></div><a class="brand" href="/">C<span>H</span>.</a>
 					</div>
 				</div>
 				<!-- end: Footer Menu Logo -->

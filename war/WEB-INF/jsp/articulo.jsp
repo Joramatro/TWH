@@ -16,7 +16,7 @@
 			<!-- start: Container -->
 			<div class="container">
 
-				<h1 id="_name2" itemprop="name"><i class="ico-suitcase ico-white"></i>${publicacion.titulo}</h1>
+				<h1 id="_name2" itemprop="name"><i class="ico-cloud ico-white"></i>${publicacion.titulo}</h1>
 
 			</div>
 			<!-- end: Container  -->
@@ -28,8 +28,8 @@
 	
 	<!--start: Wrapper -->
 	<div itemscope itemtype="http://schema.org/Article" id="wrapper">
-		<link itemprop="url" href="http://www.reservarhotelgranada.com/${publicacion.url}" />
-		<meta itemprop="publisher" content="Reservar Hotel Granada" />		
+		<link itemprop="url" href="http://www.topwebhosting.com/${publicacion.url}" />
+		<meta itemprop="publisher" content="Top Web Hosting" />		
 		<!--start: Container -->
     	<div class="container">
     				<% 
@@ -117,7 +117,7 @@
 				</div>				
 				<div class="span10">				
 					<c:if test="${publicacion.disponible ne 'N'}">
-						<h2><a href="/ofertas" onClick="ga('send', 'event', 'Ofertas', '${publicacion.url}', 'Boton Oferta Hoteles');" class="button color launch" target="_blank">Ver hoteles recomendados en Granada</a></h2>				
+						<h2><a href="/ofertas" onClick="ga('send', 'event', 'Ofertas', '${publicacion.url}', 'Boton Oferta');" class="button color launch" target="_blank">Ver web hostings recomendados</a></h2>				
 					</c:if>
 					<div class="g-plusone"></div> 														
 					<br><br>
@@ -130,7 +130,7 @@
 					<div class="g-plusone"></div>
 					<br><br>
 					<c:if test="${publicacion.disponible ne 'N'}">
-						<h2><a href="/ofertas" onClick="ga('send', 'event', 'Ofertas', '${publicacion.url}', 'Boton Oferta Hoteles');" class="button color launch">Ver hoteles recomendados en Granada</a></h2>
+						<h2><a href="/ofertas" onClick="ga('send', 'event', 'Ofertas', '${publicacion.url}', 'Boton Oferta');" class="button color launch">Ver web hostings recomendados</a></h2>
 					</c:if>
 					<br>											
 				</div>	
@@ -204,10 +204,8 @@
 						<meta itemprop="itemreviewed" content="${publicacion.titulo}" />
 						<meta itemprop="votes" content="${publicacion.votantes}" />
 						<meta itemprop="count" content="${fn:length(publicacion.lComentarios)}" />
-						<div itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
-							<meta itemprop="average" content="${publicacion.sumaPuntos div publicacion.votantes}" />
-							<meta itemprop="best" content="5" />
-						</div>
+						<meta itemprop="rating" content="${publicacion.sumaPuntos div publicacion.votantes}" />
+
 						<ol class="commentlist">
 						<c:forEach var="comentario" items="${publicacion.comentariosDeref}" varStatus="status">
 							<c:if test="${comentario.publicado ne 'N'}">

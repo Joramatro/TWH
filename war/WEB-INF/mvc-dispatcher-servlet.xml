@@ -155,7 +155,7 @@
 	  <property name="errorResolver">
 	    <bean class="com.amatic.ch.exception.DefaultRestErrorResolver">
 	      <property name="localeResolver" ref="localeResolver"></property>
-	      <property name="defaultMoreInfoUrl" value="mailto:hola@reservarhotelgranada.com"></property>
+	      <property name="defaultMoreInfoUrl" value="mailto:hola@topwebhosting.com"></property>
 	      <property name="exceptionMappingDefinitions">
 	        <map>
 	          <!-- 404 -->

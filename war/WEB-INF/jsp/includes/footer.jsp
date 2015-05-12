@@ -13,7 +13,7 @@
 				<!-- start: Footer Menu Logo -->
 				<div class="span2">
 					<div id="footer-menu-logo">
-						<div id="logo-chart"></div><a class="brand" href="http://www.reservarhotelgranada.com/">RH<span>Gra</span>.</a>
+						<div id="logo-chart"></div><a class="brand" href="http://www.topwebhosting.com/">TW<span>Hos</span>.</a>
 					</div>
 				</div>
 				<!-- end: Footer Menu Logo -->
@@ -25,11 +25,11 @@
 
 						<ul id="footer-nav">
 
-							<li><a href="http://www.reservarhotelgranada.com/">Inicio</a></li>
+							<li><a href="http://www.topwebhosting.com/">Inicio</a></li>
 							
 							<li><a href="/blog">Blog</a></li>
 
-							<li><a href="/ofertas">Ofertas de hoteles</a></li>
+							<li><a href="/ofertas">Ofertas de hosting</a></li>
 							
 							<li><a href="/contacto">Contacto</a></li>
 
@@ -44,7 +44,7 @@
 				<div class="span1">
 						
 					<div id="footer-menu-back-to-top">
-						<a href="http://www.reservarhotelgranada.com/"></a>
+						<a href="http://www.topwebhosting.com/"></a>
 					</div>
 				
 				</div>
@@ -72,7 +72,7 @@
 					
 					<h3>Sobre nosotros</h3>
 					<p>
-						Somos un equipo de personas con pasión por viajar y en especial por la ciudad de Granada, que además quiere ofrecerte la mejor información y los mejores artículos sobre reserva de hoteles y destinos a visitar en la capital granadina.
+						Somos un equipo técnico de personas que quiere ofrecerte la mejor información para que sepas dónde comprar hosting y que puedas elegir así el mejor hospedaje web para tu proyecto online.
 					</p>
 						
 				</div>
@@ -93,17 +93,17 @@
 				<div class="span6">
 				
 					<!-- start: Follow Us -->
-					<h3><img src="/img/logo_social.png" alt="Más">&nbsp;Síguenos!</h3>
+					<h3><a target="_blank" href="/rssfeed" title="RSS feed"><img src="/img/rss.png" alt="RSS feed"></a>&nbsp;Síguenos!</h3>
 					<ul class="social-grid">
 						<li>
 							<div class="social-item">				
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-twitter">
-											<a target="_blank" href="https://twitter.com/RHotelGranada"></a>
+											<a target="_blank" href="https://twitter.com"></a>
 										</div>
 										<div class="social-info-back social-twitter-hover">
-											<a target="_blank" href="https://twitter.com/RHotelGranada"></a>
+											<a target="_blank" href="https://twitter.com/"></a>
 										</div>	
 									</div>
 								</div>
@@ -114,10 +114,10 @@
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-facebook">
-											<a target="_blank" href="https://www.facebook.com/pages/Reservar-Hotel-Granada/693538744121790"></a>
+											<a target="_blank" href="https://www.facebook.com/"></a>
 										</div>
 										<div class="social-info-back social-facebook-hover">
-											<a target="_blank" href="https://www.facebook.com/pages/Reservar-Hotel-Granada/693538744121790"></a>
+											<a target="_blank" href="https://www.facebook.com/"></a>
 										</div>
 									</div>
 								</div>
@@ -128,10 +128,10 @@
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-youtube">
-											<a target="_blank" href="https://www.youtube.com/c/Reservarhotelgranada1"></a>
+											<a target="_blank" href="https://www.youtube.com/"></a>
 										</div>
 										<div class="social-info-back social-youtube-hover">
-											<a target="_blank" href="https://www.youtube.com/c/Reservarhotelgranada1"></a>
+											<a target="_blank" href="https://www.youtube.com/"></a>
 										</div>	
 									</div>
 								</div>
@@ -143,10 +143,10 @@
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-flickr">
-											<a target="_blank" href="https://www.flickr.com/photos/reservarhotelgranada/"></a>
+											<a target="_blank" href="https://www.flickr.com/"></a>
 										</div>
 										<div class="social-info-back social-flickr-hover">
-											<a target="_blank" href="https://www.flickr.com/photos/reservarhotelgranada/"></a>
+											<a target="_blank" href="https://www.flickr.com/"></a>
 										</div>	
 									</div>
 								</div>
@@ -158,12 +158,12 @@
 					<!-- start: Newsletter -->
 					
 					<h3>Suscríbete!</h3>
-					<form id="newsletter" action="//reservarhotelgranada.us10.list-manage.com/subscribe/post?u=75e517166c4d44713341c58a4&amp;id=9eae75f46b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">	
-						<p>Por favor, déjanos tu email para recibir nuestras novedades y las mejores ofertas para viajar y reservar hotel en Granada.</p>
+					<form id="newsletter" action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">	
+						<p>Por favor, déjanos tu email para recibir nuestras novedades y la mejor información para comprar hosting y alojamiento web.</p>
 						<label for="newsletter_input">@:</label>
 						<input style="border: 1px solid #29a9df" type="text" name="EMAIL" id="mce-EMAIL" placeholder="Introduce tu email">
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    					<div style="position: absolute; left: -5000px;"><input type="text" name="b_75e517166c4d44713341c58a4_9eae75f46b" tabindex="-1" value=""></div>
+    					<div style="position: absolute; left: -5000px;"><input type="text" name="" tabindex="-1" value=""></div>
 						<input type="submit" value="Suscribirme" name="Suscribirme" id="mc-embedded-subscribe">							
 					</form>
 					<!-- end: Newsletter -->
@@ -188,9 +188,8 @@
 			<div class="span12">
 			
 				<p>
-				<a style="margin-right: 35px;" href="http://www.reservarhotelgranada.com/rssfeed" accesskey="r"><img src="/img/rss.gif" alt="RSS"/>RSS</a>
-				&copy; 2015, <a target="_blank" href="https://plus.google.com/+Reservarhotelgranada1" rel="publisher"><span id="_publisher8" itemscope itemtype="http://schema.org/Organization">
-<span itemprop="name">Reservar Hotel Granada</span></span></a><i style="margin-top: -18px;" class="ico-color ico-sun"></i>
+				&copy; 2015,&nbsp;<a target="_blank" href="https://plus.google.com/" rel="publisher"><span id="_publisher8" itemscope itemtype="http://schema.org/Organization">
+<span itemprop="name">Top Web Hosting</span></span></a><i style="margin-top: -18px;" class="ico-color ico-cloud"></i>
 				<a style="margin-left: 19px;" href="/politica-de-privacidad">Política de privacidad</a>					
 				</p>
 			</div>
@@ -241,7 +240,7 @@ $("head").append("<link rel='stylesheet' type='text/css' href='/css/rateit.css' 
 	if(parts[1] == 'contacto'){		
 		$("#menuContacto").addClass('active');
 	}else if(parts[1] == 'sobre'){	
-		$("#menuAcerca").addClass('active');
+		$("#menuSobre").addClass('active');
 	}else if('${publicacion.tipo}' == 'AR'){	
 		$("#menuBlog").addClass('active');
 	}else if('${publicacion.tipo}' == 'EB'){	

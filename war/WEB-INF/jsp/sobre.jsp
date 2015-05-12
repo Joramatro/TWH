@@ -42,13 +42,13 @@
 					<div id="about">
 						<div class="title"><h3>Acerca de nosotros</h3></div>
 						<p>
-							Somos un equipo de personas con pasión por viajar, la historia y en especial por la ciudad de Granada, que además quiere ofrecerte la mejor información y los mejores artículos para buscar hoteles y destinos a visitar en la ciudad andaluza, pues está repleta de rincones maravillosos que ver.
+							Somos un equipo de personas con una gran formación en el campo de la tecnología, especializados en cuestiones relacionadas con hosting y hospedaje web, que pretende ofrecerte la mejor información y los mejores artículos para que encuentres el mejor alojamiento para tu proyecto online, pues existen multitud de opciones de entre las que elegir.
 						</p>
 						<p>
-							Además de nuestros artículos y opiniones, te ofrecemos información detallada sobre los mejores hoteles que puedes reservar en Granada. Estamos aquí para ayudarte en todo lo posible y ofrecerte la mejor información al respecto que puedas encontrar en Internet.
+							Además de artículos y opiniones, te ofrecemos información detallada sobre todas las posibilidades que te ofrecen las empresas de hosting. Estamos aquí para ayudarte en todo lo posible y ofrecerte la mejor información al respecto que puedas encontrar en Internet.
 						</p>
 						<p>
-							Por favor, contacta con nosotros para consultarnos cualquier duda que tengas o darnos tu opinión sobre nuestra web, puedes usar también la sección de comentarios de cada artículo para preguntar o aportar más información o incluso darle una puntuación.
+							Por favor, contacta con nosotros para consultarnos cualquier duda que te surja o simplemente darnos tu opinión sobre nuestra web, en este sentido puedes usar también la sección de comentarios de cada artículo para preguntar o aportar más información, o incluso darle una puntuación.
 						</p>
 					</div>	
 					<!-- end: About Us -->
@@ -57,16 +57,16 @@
 					<div id="history">
 						<div class="title"><h3>Historia</h3></div>
 						<p>
-							<span class="dropcap">1</span>Somos un grupo de personas cuya profesión y pasión es la tecnología y el turismo, por eso hemos decidido publicar a través de ésta y otras webs nuestros conocimientos con objeto de ayudar a más gente.
+							<span class="dropcap">1</span>Somos un grupo de personas cuya profesión y pasión es la tecnología, por eso hemos decidido reunir en ésta y otras webs nuestros conocimientos con objeto de ayudar a más gente.
 						</p>
 						<p>
-							<span class="dropcap color">2</span>Desde hace ya unos años, el turismo y los viajes de ocio se han convertido en algo imprescindible para nuestro tiempo de ocio y conocer nuevos lugares y ciudades como Granada es fundamental.
+							<span class="dropcap color">2</span>Desde hace ya unos años, las empresas de hosting proporcionan múltiples servicios de alojamiento web y todas las herramientas necesarias para poner en marcha tu proyecto online.
 						</p>
 						<p>
-							<span class="dropcap dark">3</span>Nosotros venimos de una formación relacionada con la tecnología y somos apasionados por los viajes y el turismo, por lo que hemos decidido reunir aquí todos nuestros conocimientos para intentar crear la mejor web en español sobre viajes y reservas de hoteles en Granada. Nuestro objetivo es ser honestos y aportar valor a nuestros lectores. 
+							<span class="dropcap dark">3</span>Nosotros venimos de una formación relacionada con la tecnología y nos apasiona todo lo relacionado con ello y el hospedaje web. Nuestro objetivo es ser honestos y aportar todo el valor a nuestros lectores. 
 						</p>
 						<p>
-							Por fin hemos lanzado nuestra propia empresa, donde intentamos ofreceros la mejor información y las mejores opiniones sobre lugares que visitar en Granada y los mejores a hoteles para reservar. Estamos aquí para ayudarte, por eso <a title="Contacto" href="/contacto">contacta</a> con nosotros cuando así lo requieras.
+							Por fin, hemos lanzado nuestra propia empresa donde te queremos ofrecer la mejor información y las mejores posibilidades a la hora de contratar tu hosting. Estamos aquí para ayudarte, por eso <a title="Contacto" href="/contacto">contacta</a> con nosotros cuando lo requieras.
 						</p>
 					</div>	
 					<!-- end: History -->				
@@ -81,19 +81,19 @@
 				       	<div class="title"><h3>Nuestras habilidades</h3></div>
 				       	<ul class="progress-bar">
 				        	<li>
-				            	<h5>Desarrollo turístico ( 95% )</h5>
+				            	<h5>Servicios web ( 95% )</h5>
 				            	<div class="meter"><span style="width: 90%"></span></div><!-- Edite width here -->
 				          	</li>
 				          	<li>
-				            	<h5>Reserva de hoteles( 100% )</h5>
+				            	<h5>Web hosting( 100% )</h5>
 				            	<div class="meter"><span style="width: 100%"></span></div><!-- Edite width here -->
 				          	</li>
 				          	<li>
-				            	<h5>Posicionamiento web ( 90% )</h5>
+				            	<h5>Posicionamiento online ( 90% )</h5>
 				            	<div class="meter"><span style="width: 90%"></span></div><!-- Edite width here -->
 				          	</li>
 				          	<li>
-				            	<h5>Hostelería en Granada ( 100% )</h5>
+				            	<h5>Gestión de contenidos ( 100% )</h5>
 				            	<div class="meter"><span style="width: 100%"></span></div><!-- Edite width here -->
 				          	</li>
 				      	</ul>
