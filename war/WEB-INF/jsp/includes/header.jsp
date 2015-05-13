@@ -329,7 +329,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-62627958-1', 'auto');
+  ga('create', 'UA-62911301-1', 'auto');
   ga('send', 'pageview');
 
 </script>
@@ -360,7 +360,7 @@
 	            		<span class="icon-bar"></span>
 	            		<span class="icon-bar"></span>
 	          		</a>
-					<a class="brand" href="/"><i class="ico-cloud circle"></i>Top Web <span>Hosting</span>.</a>
+					<a class="brand" href="/"><i class="ico-cloud circle"></i>Comprar Hosting <span>Web</span>.</a>
 	          		<div class="nav-collapse collapse">
 	            		<ul id="menuSuperior" class="nav" style="margin-right:-30px;">
 							<li id="menuInicio">

@@ -55,7 +55,7 @@
 	            		<span class="icon-bar"></span>
 	            		<span class="icon-bar"></span>
 	          		</a>
-					<a class="brand" href="/"><i class="ico-cloud circle"></i>Top Web <span>Hosting</span>.</a>
+					<a class="brand" href="/"><i class="ico-cloud circle"></i>Comprar Hosting <span>Web</span>.</a>
 	          		<div class="nav-collapse collapse">
 	            		<ul class="nav">
 							<li class="active">
