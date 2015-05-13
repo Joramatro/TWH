@@ -27,12 +27,12 @@
 		<meta property="og:url" content="http://www.comprarhostingweb.com/${publicacion.url}"/>
 		<meta property="og:image" content="${publicacion.lImages[0]}"/>
 		<meta property="og:site_name" content="Comprar Hosting Web"/>
-		<meta property="og:publisher" content="https://www.facebook.com/"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Comprar-Hosting-Web/1661402837422664"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@comprarhostingweb">
-		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:site" content="@ComprarHostingW">
+		<meta name="twitter:creator" content="@ComprarHostingW">
 		<meta name="twitter:title" content="${publicacion.titulo} en Comprar Hosting Web">
 		<meta name="twitter:description" content="${publicacion.descripcion}">
 		<meta name="twitter:image" content="${publicacion.lImages[0]}">
@@ -52,12 +52,12 @@
 		<meta property="og:url" content="http://www.comprarhostingweb.com/${publicacion.url}"/>
 		<meta property="og:image" content="${publicacion.lImages[0]}"/>
 		<meta property="og:site_name" content="Comprar Hosting Web"/>
-		<meta property="og:publisher" content="https://www.facebook.com/"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Comprar-Hosting-Web/1661402837422664"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@comprarhostingweb">
-		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:site" content="@ComprarHostingW">
+		<meta name="twitter:creator" content="@ComprarHostingW">
 		<meta name="twitter:title" content="${publicacion.titulo} en Comprar Hosting Web">
 		<meta name="twitter:description" content="${publicacion.descripcion}">
 		<meta name="twitter:image" content="${publicacion.lImages[0]}">
@@ -80,8 +80,8 @@
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@comprarhostingweb">
-		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:site" content="@ComprarHostingW">
+		<meta name="twitter:creator" content="@ComprarHostingW">
 		<meta name="twitter:title" content="Sobre nosotros en Comprar Hosting Web">
 		<meta name="twitter:description" content="Toda la información sobre los que trabajamos en Comprar Hosting Web, su experiencia y valores profesionales">
 		<meta name="twitter:image" content="http://www.comprarhostingweb.com/img/img-meta/logo_grande.jpg">
@@ -104,8 +104,8 @@
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@comprarhostingweb">
-		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:site" content="@ComprarHostingW">
+		<meta name="twitter:creator" content="@ComprarHostingW">
 		<meta name="twitter:title" content="Contacta con nosotros en Comprar Hosting Web">
 		<meta name="twitter:description" content="Contacta con los que trabajamos en Comprar Hosting Web">
 		<meta name="twitter:image" content="http://www.comprarhostingweb.com/img/img-meta/logo_grande.jpg">
@@ -130,12 +130,12 @@
 			</c:if>
 		</c:if>
 		<meta property="og:site_name" content="Comprar Hosting Web"/>
-		<meta property="og:publisher" content="https://www.facebook.com/"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Comprar-Hosting-Web/1661402837422664"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@comprarhostingweb">
-		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:site" content="@ComprarHostingW">
+		<meta name="twitter:creator" content="@ComprarHostingW">
 		<meta property="twitter:title" content="Oferta de hosting recomendado de <%= request.getParameter("filtro").replaceAll("-", " ") %> en Comprar Hosting Web"/> 
 		<meta property="twitter:description" content="Lista y oferta de servicios recomendados de hospedaje web de <%= request.getParameter("filtro").replaceAll("-", " ") %> para que puedas comprar el hosting que mejor se adapte a tu proyecto al precio más barato."/>		
 		<c:if test="${!empty publicaciones}">
@@ -164,12 +164,12 @@
 			</c:if>
 		</c:if>
 		<meta property="og:site_name" content="Comprar Hosting Web"/>
-		<meta property="og:publisher" content="https://www.facebook.com/"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Comprar-Hosting-Web/1661402837422664"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@comprarhostingweb">
-		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:site" content="@ComprarHostingW">
+		<meta name="twitter:creator" content="@ComprarHostingW">
 		<meta property="twitter:title" content="Ofertas para contratar hosting en Comprar Hosting Web"/> 
 		<meta property="twitter:description" content="Lista y oferta de servicios recomendados de hospedaje web para que puedas comprar el hosting que mejor se adapte a tu proyecto al precio más barato del mercado."/>		
 		<c:if test="${!empty publicaciones}">
@@ -198,12 +198,12 @@
 			</c:if>
 		</c:if>
 		<meta property="og:site_name" content="Comprar Hosting Web"/>
-		<meta property="og:publisher" content="https://www.facebook.com/"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Comprar-Hosting-Web/1661402837422664"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@comprarhostingweb">
-		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:site" content="@ComprarHostingW">
+		<meta name="twitter:creator" content="@ComprarHostingW">
 		<meta name="twitter:title" content="Artículos de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> en Comprar Hosting Web">
 		<meta name="twitter:description" content="Artículos y opinión de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> para que puedas contratar hosting web al mejor precio y el que mejor se adapte a tu proyecto junto con todas las herramientas y prestaciones necesarias.">
 		<c:if test="${!empty publicaciones}">
@@ -232,12 +232,12 @@
 			</c:if>
 		</c:if>
 		<meta property="og:site_name" content="Comprar Hosting Web"/>
-		<meta property="og:publisher" content="https://www.facebook.com/"/>
+		<meta property="og:publisher" content="https://www.facebook.com/pages/Comprar-Hosting-Web/1661402837422664"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@comprarhostingweb">
-		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:site" content="@ComprarHostingW">
+		<meta name="twitter:creator" content="@ComprarHostingW">
 		<meta name="twitter:title" content="Artículos para contratar hosting en Comprar Hosting Web">
 		<meta name="twitter:description" content="Artículos y opinión sobre los mejores servicios de hosting para que puedas contratar hospedaje web al mejor precio y el que mejor se adapte a tu proyecto junto con todas las herramientas y prestaciones necesarias.">
 		<c:if test="${!empty publicaciones}">
@@ -262,8 +262,8 @@
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@comprarhostingweb">
-		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:site" content="@ComprarHostingW">
+		<meta name="twitter:creator" content="@ComprarHostingW">
 		<meta name="twitter:title" content="Política de privacidad de Comprar Hosting Web">
 		<meta name="twitter:description" content="Política de privacidad y condiciones de uso de Comprar Hosting Web">
 		<meta name="twitter:domain" content="comprarhostingweb.com/">
@@ -285,8 +285,8 @@
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@comprarhostingweb">
-		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:site" content="@ComprarHostingW">
+		<meta name="twitter:creator" content="@ComprarHostingW">
 		<meta name="twitter:title" content="Comprar Hosting Web - Información para comprar hosting">
 		<meta name="twitter:description" content="Información para saber dónde comprar hosting y contratar hospedaje web para tu proyecto online a través de nuestros artículos y análisis detallados sobre los mejores proveedores y servicios de alojamiento web.">
 		<meta name="twitter:image" content="http://www.comprarhostingweb.com/img/img-meta/logo_grande.jpg">
@@ -296,7 +296,7 @@
 	</c:otherwise>		
 	</c:choose>
 	<link rel="alternate" type="application/rss+xml" title="Comprar Hosting Web RSS Feed" href="http://www.comprarhostingweb.com/rssfeed" />
-	<link href="https://plus.google.com/" rel="publisher" />
+	<link href="https://www.google.com/+Comprarhostingweb1" rel="publisher" />
 	<style>
 	@font-face {
 	  font-family: 'Droid Sans';

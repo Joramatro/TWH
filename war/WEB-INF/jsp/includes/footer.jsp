@@ -100,10 +100,10 @@
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-twitter">
-											<a target="_blank" href="https://twitter.com"></a>
+											<a target="_blank" href="https://twitter.com/ComprarHostingW"></a>
 										</div>
 										<div class="social-info-back social-twitter-hover">
-											<a target="_blank" href="https://twitter.com/"></a>
+											<a target="_blank" href="https://twitter.com/ComprarHostingW"></a>
 										</div>	
 									</div>
 								</div>
@@ -114,10 +114,10 @@
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-facebook">
-											<a target="_blank" href="https://www.facebook.com/"></a>
+											<a target="_blank" href="https://www.facebook.com/pages/Comprar-Hosting-Web/1661402837422664"></a>
 										</div>
 										<div class="social-info-back social-facebook-hover">
-											<a target="_blank" href="https://www.facebook.com/"></a>
+											<a target="_blank" href="https://www.facebook.com/pages/Comprar-Hosting-Web/1661402837422664"></a>
 										</div>
 									</div>
 								</div>
@@ -128,10 +128,10 @@
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-youtube">
-											<a target="_blank" href="https://www.youtube.com/"></a>
+											<a target="_blank" href="https://www.youtube.com/c/Comprarhostingweb1"></a>
 										</div>
 										<div class="social-info-back social-youtube-hover">
-											<a target="_blank" href="https://www.youtube.com/"></a>
+											<a target="_blank" href="https://www.youtube.com/c/Comprarhostingweb1"></a>
 										</div>	
 									</div>
 								</div>
@@ -143,10 +143,10 @@
 								<div class="social-info-wrap">
 									<div class="social-info">
 										<div class="social-info-front social-flickr">
-											<a target="_blank" href="https://www.flickr.com/"></a>
+											<a target="_blank" href="https://www.flickr.com/photos/comprarhostingweb/"></a>
 										</div>
 										<div class="social-info-back social-flickr-hover">
-											<a target="_blank" href="https://www.flickr.com/"></a>
+											<a target="_blank" href="https://www.flickr.com/photos/comprarhostingweb/"></a>
 										</div>	
 									</div>
 								</div>
@@ -158,12 +158,12 @@
 					<!-- start: Newsletter -->
 					
 					<h3>Suscríbete!</h3>
-					<form id="newsletter" action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">	
+					<form id="newsletter" action="//comprarhostingweb.us10.list-manage.com/subscribe/post?u=6999c74078a6ef79225321a6f&amp;id=23a563265b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">	
 						<p>Por favor, déjanos tu email para recibir nuestras novedades y la mejor información para comprar hosting y alojamiento web.</p>
 						<label for="newsletter_input">@:</label>
 						<input style="border: 1px solid #29a9df" type="text" name="EMAIL" id="mce-EMAIL" placeholder="Introduce tu email">
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    					<div style="position: absolute; left: -5000px;"><input type="text" name="" tabindex="-1" value=""></div>
+    					<div style="position: absolute; left: -5000px;"><input type="text" name="b_6999c74078a6ef79225321a6f_23a563265b" tabindex="-1" value=""></div>
 						<input type="submit" value="Suscribirme" name="Suscribirme" id="mc-embedded-subscribe">							
 					</form>
 					<!-- end: Newsletter -->
@@ -188,7 +188,7 @@
 			<div class="span12">
 			
 				<p>
-				&copy; 2015,&nbsp;<a target="_blank" href="https://plus.google.com/" rel="publisher"><span id="_publisher8" itemscope itemtype="http://schema.org/Organization">
+				&copy; 2015,&nbsp;<a target="_blank" href="https://www.google.com/+Comprarhostingweb1" rel="publisher"><span id="_publisher8" itemscope itemtype="http://schema.org/Organization">
 <span itemprop="name">Comprar Hosting Web</span></span></a><i style="margin-top: -18px;" class="ico-color ico-cloud"></i>
 				<a style="margin-left: 19px;" href="/politica-de-privacidad">Política de privacidad</a>					
 				</p>
