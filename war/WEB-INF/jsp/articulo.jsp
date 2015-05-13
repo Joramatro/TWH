@@ -28,8 +28,8 @@
 	
 	<!--start: Wrapper -->
 	<div itemscope itemtype="http://schema.org/Article" id="wrapper">
-		<link itemprop="url" href="http://www.topwebhosting.com/${publicacion.url}" />
-		<meta itemprop="publisher" content="Top Web Hosting" />		
+		<link itemprop="url" href="http://www.comprarhostingweb.com/${publicacion.url}" />
+		<meta itemprop="publisher" content="Comprar Hosting Web" />		
 		<!--start: Container -->
     	<div class="container">
     				<% 

@@ -26,7 +26,7 @@
         <!-- Fav and touch icons -->
 		<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
 		<link rel="stylesheet" href="/css/apprise-v2.css" type="text/css" />
-    <meta name="description" content="Subida de archivos y herramienta de edicion para Top Web Hosting">
+    <meta name="description" content="Subida de archivos y herramienta de edicion para Comprar Hosting Web">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<style>
 			.ui-autocomplete-loading { background: white url('/img/fancybox_loading.gif') right center no-repeat; }
@@ -519,7 +519,7 @@ Script122: <input type="text" style="width: 600px;" id="script122" name="script1
 		
 			<div class="span12">
 				<p>
-					&copy; 2015, <a href="/">Top Web Hosting</a><i style="margin-top: -18px;" class="ico-color ico-sun"></i>
+					&copy; 2015, <a href="/">Comprar Hosting Web</a><i style="margin-top: -18px;" class="ico-color ico-sun"></i>
 				</p>
 			</div>
 	

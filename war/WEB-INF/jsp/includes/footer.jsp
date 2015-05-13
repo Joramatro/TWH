@@ -13,7 +13,7 @@
 				<!-- start: Footer Menu Logo -->
 				<div class="span2">
 					<div id="footer-menu-logo">
-						<div id="logo-chart"></div><a class="brand" href="http://www.topwebhosting.com/">TW<span>Hos</span>.</a>
+						<div id="logo-chart"></div><a class="brand" href="http://www.comprarhostingweb.com/">CH<span>Web</span>.</a>
 					</div>
 				</div>
 				<!-- end: Footer Menu Logo -->
@@ -25,7 +25,7 @@
 
 						<ul id="footer-nav">
 
-							<li><a href="http://www.topwebhosting.com/">Inicio</a></li>
+							<li><a href="http://www.comprarhostingweb.com/">Inicio</a></li>
 							
 							<li><a href="/blog">Blog</a></li>
 
@@ -44,7 +44,7 @@
 				<div class="span1">
 						
 					<div id="footer-menu-back-to-top">
-						<a href="http://www.topwebhosting.com/"></a>
+						<a href="http://www.comprarhostingweb.com/"></a>
 					</div>
 				
 				</div>
@@ -189,7 +189,7 @@
 			
 				<p>
 				&copy; 2015,&nbsp;<a target="_blank" href="https://plus.google.com/" rel="publisher"><span id="_publisher8" itemscope itemtype="http://schema.org/Organization">
-<span itemprop="name">Top Web Hosting</span></span></a><i style="margin-top: -18px;" class="ico-color ico-cloud"></i>
+<span itemprop="name">Comprar Hosting Web</span></span></a><i style="margin-top: -18px;" class="ico-color ico-cloud"></i>
 				<a style="margin-left: 19px;" href="/politica-de-privacidad">Política de privacidad</a>					
 				</p>
 			</div>
@@ -240,7 +240,7 @@ $("head").append("<link rel='stylesheet' type='text/css' href='/css/rateit.css' 
 	if(parts[1] == 'contacto'){		
 		$("#menuContacto").addClass('active');
 	}else if(parts[1] == 'sobre'){	
-		$("#menuSobre").addClass('active');
+		$("#menuAcerca").addClass('active');
 	}else if('${publicacion.tipo}' == 'AR'){	
 		$("#menuBlog").addClass('active');
 	}else if('${publicacion.tipo}' == 'EB'){	

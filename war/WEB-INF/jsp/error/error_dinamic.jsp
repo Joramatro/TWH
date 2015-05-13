@@ -214,7 +214,7 @@ Error ${errorCode}
 			pw.close();
 			%>
 			<br/> <br/>
-			<p>Por favor, envia esta traza al <a href="mailto:hola@topwebhosting.com">administrator</a></p>
+			<p>Por favor, envia esta traza al <a href="mailto:hola@comprarhostingweb.com">administrator</a></p>
 		</div>
 -->
 </body>

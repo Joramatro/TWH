@@ -10,12 +10,12 @@
 <div id="content">
 
   <div class="logo">
-		<h1><a title="Top Web Hosting" href="www.topwebhosting.com"><span class="red">Top Web Hosting</span></a></h1>
-		<input type="image" src="/img/logo.png" width="95px" height="40px" class="button-sel" alt="www.topwebhosting.com" title="www.topwebhosting.com"/>
+		<h1><a title="Comprar Hosting Web" href="www.comprarhostingweb.com"><span class="red">Comprar Hosting Web</span></a></h1>
+		<input type="image" src="/img/logo.png" width="95px" height="40px" class="button-sel" alt="www.comprarhostingweb.com" title="www.comprarhostingweb.com"/>
   </div>            
 
 <div class="subheader" style="margin-left:20px">
-    <h2>Log In</h2> para editar en Top Web Hosting
+    <h2>Log In</h2> para editar en Comprar Hosting Web
 </div>
 <div id="mainbar">
 

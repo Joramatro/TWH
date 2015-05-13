@@ -16,286 +16,286 @@
 	<!-- end: Mobile Specific -->
 	<c:choose>
 	<c:when test="${!empty publicacion && publicacion.tipo eq 'EB'}">
-		<title>${publicacion.titulo} | Top Web Hosting</title> 
+		<title>${publicacion.titulo} | Comprar Hosting Web</title> 
 		<meta name="description" content="${publicacion.descripcion}"/>
 		<meta name="author" content="Pablo Cárdenas" />
-		<meta name="copyright" content="Top Web Hosting" />
+		<meta name="copyright" content="Comprar Hosting Web" />
 		<!-- start: Facebook Open Graph -->
-		<meta property="og:title" content="${publicacion.titulo} en Top Web Hosting"/>
+		<meta property="og:title" content="${publicacion.titulo} en Comprar Hosting Web"/>
 		<meta property="og:description" content="${publicacion.descripcion}"/>
 		<meta property="og:type" content="article"/>
-		<meta property="og:url" content="http://www.topwebhosting.com/${publicacion.url}"/>
+		<meta property="og:url" content="http://www.comprarhostingweb.com/${publicacion.url}"/>
 		<meta property="og:image" content="${publicacion.lImages[0]}"/>
-		<meta property="og:site_name" content="Top Web Hosting"/>
+		<meta property="og:site_name" content="Comprar Hosting Web"/>
 		<meta property="og:publisher" content="https://www.facebook.com/"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@TopWebHosting">
-		<meta name="twitter:creator" content="@TopWebHosting">
-		<meta name="twitter:title" content="${publicacion.titulo} en Top Web Hosting">
+		<meta name="twitter:site" content="@comprarhostingweb">
+		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:title" content="${publicacion.titulo} en Comprar Hosting Web">
 		<meta name="twitter:description" content="${publicacion.descripcion}">
 		<meta name="twitter:image" content="${publicacion.lImages[0]}">
-		<meta name="twitter:domain" content="topwebhosting.com">
+		<meta name="twitter:domain" content="comprarhostingweb.com">
 		<!-- end: Twitter tags -->
-		<link rel="canonical" href="http://www.topwebhosting.com/${publicacion.url}"/>
+		<link rel="canonical" href="http://www.comprarhostingweb.com/${publicacion.url}"/>
 	</c:when>
 	<c:when test="${!empty publicacion && publicacion.tipo eq 'AR'}">
-		<title>${publicacion.titulo} | Top Web Hosting</title> 
+		<title>${publicacion.titulo} | Comprar Hosting Web</title> 
 		<meta name="description" content="${publicacion.descripcion}"/>
 		<meta name="author" content="Pablo Cárdenas" />
-		<meta name="copyright" content="Top Web Hosting" />
+		<meta name="copyright" content="Comprar Hosting Web" />
 		<!-- start: Facebook Open Graph -->
-		<meta property="og:title" content="${publicacion.titulo} en Top Web Hosting"/>
+		<meta property="og:title" content="${publicacion.titulo} en Comprar Hosting Web"/>
 		<meta property="og:description" content="${publicacion.descripcion}"/>
 		<meta property="og:type" content="article"/>
-		<meta property="og:url" content="http://www.topwebhosting.com/${publicacion.url}"/>
+		<meta property="og:url" content="http://www.comprarhostingweb.com/${publicacion.url}"/>
 		<meta property="og:image" content="${publicacion.lImages[0]}"/>
-		<meta property="og:site_name" content="Top Web Hosting"/>
+		<meta property="og:site_name" content="Comprar Hosting Web"/>
 		<meta property="og:publisher" content="https://www.facebook.com/"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@TopWebHosting">
-		<meta name="twitter:creator" content="@TopWebHosting">
-		<meta name="twitter:title" content="${publicacion.titulo} en Top Web Hosting">
+		<meta name="twitter:site" content="@comprarhostingweb">
+		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:title" content="${publicacion.titulo} en Comprar Hosting Web">
 		<meta name="twitter:description" content="${publicacion.descripcion}">
 		<meta name="twitter:image" content="${publicacion.lImages[0]}">
-		<meta name="twitter:domain" content="topwebhosting.com">
+		<meta name="twitter:domain" content="comprarhostingweb.com">
 		<!-- end: Twitter tags -->
-		<link rel="canonical" href="http://www.topwebhosting.com/${publicacion.url}"/>
+		<link rel="canonical" href="http://www.comprarhostingweb.com/${publicacion.url}"/>
 	</c:when>	
 	<c:when test="${fn:contains(pageContext.request.requestURI, 'sobre')}">
-		<title>Sobre nosotros | Top Web Hosting</title> 
-		<meta name="description" content="Toda la información sobre los que trabajamos en Top Web Hosting, su experiencia y valores profesionales"/>
-		<meta name="author" content="Top Web Hosting" />
-		<meta name="copyright" content="Top Web Hosting" />
+		<title>Sobre nosotros | Comprar Hosting Web</title> 
+		<meta name="description" content="Toda la información sobre los que trabajamos en Comprar Hosting Web, su experiencia y valores profesionales"/>
+		<meta name="author" content="Comprar Hosting Web" />
+		<meta name="copyright" content="Comprar Hosting Web" />
 		<!-- start: Facebook Open Graph -->
-		<meta property="og:title" content="Sobre nosotros en Top Web Hosting"/>
-		<meta property="og:description" content="Toda la información sobre los que trabajamos en Top Web Hosting, su experiencia y valores profesionales"/>
+		<meta property="og:title" content="Sobre nosotros en Comprar Hosting Web"/>
+		<meta property="og:description" content="Toda la información sobre los que trabajamos en Comprar Hosting Web, su experiencia y valores profesionales"/>
 		<meta property="og:type" content="website"/>
-		<meta property="og:url" content="http://www.topwebhosting.com/sobre"/>
-		<meta property="og:image" content="http://www.topwebhosting.com/img/img-meta/logo_grande.jpg"/>
-		<meta property="og:site_name" content="Top Web Hosting"/>
+		<meta property="og:url" content="http://www.comprarhostingweb.com/sobre"/>
+		<meta property="og:image" content="http://www.comprarhostingweb.com/img/img-meta/logo_grande.jpg"/>
+		<meta property="og:site_name" content="Comprar Hosting Web"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@TopWebHosting">
-		<meta name="twitter:creator" content="@TopWebHosting">
-		<meta name="twitter:title" content="Sobre nosotros en Top Web Hosting">
-		<meta name="twitter:description" content="Toda la información sobre los que trabajamos en Top Web Hosting, su experiencia y valores profesionales">
-		<meta name="twitter:image" content="http://www.topwebhosting.com/img/img-meta/logo_grande.jpg">
-		<meta name="twitter:domain" content="topwebhosting.com">
+		<meta name="twitter:site" content="@comprarhostingweb">
+		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:title" content="Sobre nosotros en Comprar Hosting Web">
+		<meta name="twitter:description" content="Toda la información sobre los que trabajamos en Comprar Hosting Web, su experiencia y valores profesionales">
+		<meta name="twitter:image" content="http://www.comprarhostingweb.com/img/img-meta/logo_grande.jpg">
+		<meta name="twitter:domain" content="comprarhostingweb.com">
 		<!-- end: Twitter tags -->
-		<link rel="canonical" href="http://www.topwebhosting.com/sobre"/>	
+		<link rel="canonical" href="http://www.comprarhostingweb.com/sobre"/>	
 	</c:when>
 	<c:when test="${fn:contains(pageContext.request.requestURI, 'contacta')}">
-		<title>Contacta | Top Web Hosting</title> 
-		<meta name="description" content="Contacta con los que trabajamos en Top Web Hosting"/>
-		<meta name="author" content="Top Web Hosting" />
-		<meta name="copyright" content="Top Web Hosting" />
+		<title>Contacta | Comprar Hosting Web</title> 
+		<meta name="description" content="Contacta con los que trabajamos en Comprar Hosting Web"/>
+		<meta name="author" content="Comprar Hosting Web" />
+		<meta name="copyright" content="Comprar Hosting Web" />
 		<!-- start: Facebook Open Graph -->
-		<meta property="og:title" content="Contacta en Top Web Hosting"/>
-		<meta property="og:description" content="Contacta con los que trabajamos en Top Web Hosting"/>
+		<meta property="og:title" content="Contacta en Comprar Hosting Web"/>
+		<meta property="og:description" content="Contacta con los que trabajamos en Comprar Hosting Web"/>
 		<meta property="og:type" content="website"/>
-		<meta property="og:url" content="http://www.topwebhosting.com/contacto"/>
-		<meta property="og:image" content="http://www.topwebhosting.com/img/img-meta/logo_grande.jpg"/>
-		<meta property="og:site_name" content="Top Web Hosting"/>
+		<meta property="og:url" content="http://www.comprarhostingweb.com/contacto"/>
+		<meta property="og:image" content="http://www.comprarhostingweb.com/img/img-meta/logo_grande.jpg"/>
+		<meta property="og:site_name" content="Comprar Hosting Web"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@TopWebHosting">
-		<meta name="twitter:creator" content="@TopWebHosting">
-		<meta name="twitter:title" content="Contacta con nosotros en Top Web Hosting">
-		<meta name="twitter:description" content="Contacta con los que trabajamos en Top Web Hosting">
-		<meta name="twitter:image" content="http://www.topwebhosting.com/img/img-meta/logo_grande.jpg">
-		<meta name="twitter:domain" content="topwebhosting.com">
+		<meta name="twitter:site" content="@comprarhostingweb">
+		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:title" content="Contacta con nosotros en Comprar Hosting Web">
+		<meta name="twitter:description" content="Contacta con los que trabajamos en Comprar Hosting Web">
+		<meta name="twitter:image" content="http://www.comprarhostingweb.com/img/img-meta/logo_grande.jpg">
+		<meta name="twitter:domain" content="comprarhostingweb.com">
 		<!-- end: Twitter tags -->
-		<link rel="canonical" href="http://www.topwebhosting.com/contacto"/>
+		<link rel="canonical" href="http://www.comprarhostingweb.com/contacto"/>
 	</c:when>
 	
 	<c:when test="${fn:contains(pageContext.request.requestURI, 'ebooks') && not empty param.filtro}">
-		<title>Oferta de hosting recomendado de <%= request.getParameter("filtro").replaceAll("-", " ") %> | Top Web Hosting</title> 
+		<title>Oferta de hosting recomendado de <%= request.getParameter("filtro").replaceAll("-", " ") %> | Comprar Hosting Web</title> 
 		<meta name="description" content="Lista y oferta de servicios recomendados de hospedaje web de <%= request.getParameter("filtro").replaceAll("-", " ") %> para que puedas comprar el hosting que mejor se adapte a tu proyecto al precio más barato."/>
-		<meta name="author" content="Top Web Hosting" />
-		<meta name="copyright" content="Top Web Hosting" />
+		<meta name="author" content="Comprar Hosting Web" />
+		<meta name="copyright" content="Comprar Hosting Web" />
 		<!-- start: Facebook Open Graph -->
-		<meta property="og:title" content="Oferta de hosting recomendado de <%= request.getParameter("filtro").replaceAll("-", " ") %> en Top Web Hosting"/> 
+		<meta property="og:title" content="Oferta de hosting recomendado de <%= request.getParameter("filtro").replaceAll("-", " ") %> en Comprar Hosting Web"/> 
 		<meta property="og:description" content="Lista y oferta de servicios recomendados de hospedaje web de <%= request.getParameter("filtro").replaceAll("-", " ") %> para que puedas comprar el hosting que mejor se adapte a tu proyecto al precio más barato."/>		
 		<meta property="og:type" content="blog"/>
-		<meta property="og:url" content="http://www.topwebhosting.com/ofertas"/>
+		<meta property="og:url" content="http://www.comprarhostingweb.com/ofertas"/>
 		<c:if test="${!empty publicaciones}">
 			<c:if test="${!empty publicaciones[0].lImages}">
 				<meta property="og:image" content="${publicaciones[0].lImages[0]}"/>
 			</c:if>
 		</c:if>
-		<meta property="og:site_name" content="Top Web Hosting"/>
+		<meta property="og:site_name" content="Comprar Hosting Web"/>
 		<meta property="og:publisher" content="https://www.facebook.com/"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@TopWebHosting">
-		<meta name="twitter:creator" content="@TopWebHosting">
-		<meta property="twitter:title" content="Oferta de hosting recomendado de <%= request.getParameter("filtro").replaceAll("-", " ") %> en Top Web Hosting"/> 
+		<meta name="twitter:site" content="@comprarhostingweb">
+		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta property="twitter:title" content="Oferta de hosting recomendado de <%= request.getParameter("filtro").replaceAll("-", " ") %> en Comprar Hosting Web"/> 
 		<meta property="twitter:description" content="Lista y oferta de servicios recomendados de hospedaje web de <%= request.getParameter("filtro").replaceAll("-", " ") %> para que puedas comprar el hosting que mejor se adapte a tu proyecto al precio más barato."/>		
 		<c:if test="${!empty publicaciones}">
 			<c:if test="${!empty publicaciones[0].lImages}">
 				<meta name="twitter:image" content="${publicaciones[0].lImages[0]}">
 			</c:if>
 		</c:if>
-		<meta name="twitter:domain" content="topwebhosting.com">
-		<link rel="canonical" href="http://www.topwebhosting.com/ofertas"/>
+		<meta name="twitter:domain" content="comprarhostingweb.com">
+		<link rel="canonical" href="http://www.comprarhostingweb.com/ofertas"/>
 		<!-- end: Twitter tags -->		
 	</c:when>	
 	
 	<c:when test="${fn:contains(pageContext.request.requestURI, 'ebooks')}">
-		<title>Ofertas para contratar hosting | Top Web Hosting</title> 
+		<title>Ofertas para contratar hosting | Comprar Hosting Web</title> 
 		<meta name="description" content="Lista y oferta de servicios recomendados de hospedaje web para que puedas comprar el hosting que mejor se adapte a tu proyecto al precio más barato del mercado."/>
-		<meta name="author" content="Top Web Hosting" />
-		<meta name="copyright" content="Top Web Hosting" />
+		<meta name="author" content="Comprar Hosting Web" />
+		<meta name="copyright" content="Comprar Hosting Web" />
 		<!-- start: Facebook Open Graph -->
-		<meta property="og:title" content="Ofertas para contratar hosting en Top Web Hosting"/> 
+		<meta property="og:title" content="Ofertas para contratar hosting en Comprar Hosting Web"/> 
 		<meta property="og:description" content="Lista y oferta de servicios recomendados de hospedaje web para que puedas comprar el hosting que mejor se adapte a tu proyecto al precio más barato del mercado."/>		
 		<meta property="og:type" content="blog"/>
-		<meta property="og:url" content="http://www.topwebhosting.com/ofertas"/>
+		<meta property="og:url" content="http://www.comprarhostingweb.com/ofertas"/>
 		<c:if test="${!empty publicaciones}">
 			<c:if test="${!empty publicaciones[0].lImages}">
 				<meta property="og:image" content="${publicaciones[0].lImages[0]}"/>
 			</c:if>
 		</c:if>
-		<meta property="og:site_name" content="Top Web Hosting"/>
+		<meta property="og:site_name" content="Comprar Hosting Web"/>
 		<meta property="og:publisher" content="https://www.facebook.com/"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@TopWebHosting">
-		<meta name="twitter:creator" content="@TopWebHosting">
-		<meta property="twitter:title" content="Ofertas para contratar hosting en Top Web Hosting"/> 
+		<meta name="twitter:site" content="@comprarhostingweb">
+		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta property="twitter:title" content="Ofertas para contratar hosting en Comprar Hosting Web"/> 
 		<meta property="twitter:description" content="Lista y oferta de servicios recomendados de hospedaje web para que puedas comprar el hosting que mejor se adapte a tu proyecto al precio más barato del mercado."/>		
 		<c:if test="${!empty publicaciones}">
 			<c:if test="${!empty publicaciones[0].lImages}">
 				<meta name="twitter:image" content="${publicaciones[0].lImages[0]}">
 			</c:if>
 		</c:if>
-		<meta name="twitter:domain" content="topwebhosting.com">
-		<link rel="canonical" href="http://www.topwebhosting.com/ofertas"/>
+		<meta name="twitter:domain" content="comprarhostingweb.com">
+		<link rel="canonical" href="http://www.comprarhostingweb.com/ofertas"/>
 		<!-- end: Twitter tags -->		
 	</c:when>
 	
 	<c:when test="${fn:contains(pageContext.request.requestURI, 'blog') && not empty param.filtro}">
-		<title>Artículos de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> | Top Web Hosting</title> 
+		<title>Artículos de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> | Comprar Hosting Web</title> 
 		<meta name="description" content="Artículos y opinión de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> para que puedas contratar hosting web al mejor precio y el que mejor se adapte a tu proyecto junto con todas las herramientas y prestaciones necesarias."/>
-		<meta name="author" content="Top Web Hosting" />
-		<meta name="copyright" content="Top Web Hosting" />
+		<meta name="author" content="Comprar Hosting Web" />
+		<meta name="copyright" content="Comprar Hosting Web" />
 		<!-- start: Facebook Open Graph -->
-		<meta property="og:title" content="Artículos de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> en Top Web Hosting"/>
+		<meta property="og:title" content="Artículos de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> en Comprar Hosting Web"/>
 		<meta property="og:description" content="Artículos y opinión de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> para que puedas contratar hosting web al mejor precio y el que mejor se adapte a tu proyecto junto con todas las herramientas y prestaciones necesarias."/>
 		<meta property="og:type" content="blog"/>
-		<meta property="og:url" content="http://www.topwebhosting.com/blog"/>
+		<meta property="og:url" content="http://www.comprarhostingweb.com/blog"/>
 		<c:if test="${!empty publicaciones}">
 			<c:if test="${!empty publicaciones[0].lImages}">
 				<meta property="og:image" content="${publicaciones[0].lImages[0]}"/>
 			</c:if>
 		</c:if>
-		<meta property="og:site_name" content="Top Web Hosting"/>
+		<meta property="og:site_name" content="Comprar Hosting Web"/>
 		<meta property="og:publisher" content="https://www.facebook.com/"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@TopWebHosting">
-		<meta name="twitter:creator" content="@TopWebHosting">
-		<meta name="twitter:title" content="Artículos de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> en Top Web Hosting">
+		<meta name="twitter:site" content="@comprarhostingweb">
+		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:title" content="Artículos de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> en Comprar Hosting Web">
 		<meta name="twitter:description" content="Artículos y opinión de tipo <%= request.getParameter("filtro").replaceAll("-", " ") %> para que puedas contratar hosting web al mejor precio y el que mejor se adapte a tu proyecto junto con todas las herramientas y prestaciones necesarias.">
 		<c:if test="${!empty publicaciones}">
 			<c:if test="${!empty publicaciones[0].lImages}">
 				<meta name="twitter:image" content="${publicaciones[0].lImages[0]}">
 			</c:if>
 		</c:if>
-		<meta name="twitter:domain" content="topwebhosting.com">
+		<meta name="twitter:domain" content="comprarhostingweb.com">
 		<!-- end: Twitter tags -->
-		<link rel="canonical" href="http://www.topwebhosting.com/blog"/>			
+		<link rel="canonical" href="http://www.comprarhostingweb.com/blog"/>			
 	</c:when>	
 	
 	<c:when test="${fn:contains(pageContext.request.requestURI, 'blog')}">
-		<title>Artículos para contratar hosting | Top Web Hosting</title> 
+		<title>Artículos para contratar hosting | Comprar Hosting Web</title> 
 		<meta name="description" content="Artículos y opinión sobre los mejores servicios de hosting para que puedas contratar hospedaje web al mejor precio y el que mejor se adapte a tu proyecto junto con todas las herramientas y prestaciones necesarias."/>
-		<meta name="author" content="Top Web Hosting" />
-		<meta name="copyright" content="Top Web Hosting" />
+		<meta name="author" content="Comprar Hosting Web" />
+		<meta name="copyright" content="Comprar Hosting Web" />
 		<!-- start: Facebook Open Graph -->
-		<meta property="og:title" content="Artículos para contratar hosting en Top Web Hosting"/>
+		<meta property="og:title" content="Artículos para contratar hosting en Comprar Hosting Web"/>
 		<meta property="og:description" content="Artículos y opinión sobre los mejores servicios de hosting para que puedas contratar hospedaje web al mejor precio y el que mejor se adapte a tu proyecto junto con todas las herramientas y prestaciones necesarias."/>
 		<meta property="og:type" content="blog"/>
-		<meta property="og:url" content="http://www.topwebhosting.com/blog"/>
+		<meta property="og:url" content="http://www.comprarhostingweb.com/blog"/>
 		<c:if test="${!empty publicaciones}">
 			<c:if test="${!empty publicaciones[0].lImages}">
 				<meta property="og:image" content="${publicaciones[0].lImages[0]}"/>
 			</c:if>
 		</c:if>
-		<meta property="og:site_name" content="Top Web Hosting"/>
+		<meta property="og:site_name" content="Comprar Hosting Web"/>
 		<meta property="og:publisher" content="https://www.facebook.com/"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@TopWebHosting">
-		<meta name="twitter:creator" content="@TopWebHosting">
-		<meta name="twitter:title" content="Artículos para contratar hosting en Top Web Hosting">
+		<meta name="twitter:site" content="@comprarhostingweb">
+		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:title" content="Artículos para contratar hosting en Comprar Hosting Web">
 		<meta name="twitter:description" content="Artículos y opinión sobre los mejores servicios de hosting para que puedas contratar hospedaje web al mejor precio y el que mejor se adapte a tu proyecto junto con todas las herramientas y prestaciones necesarias.">
 		<c:if test="${!empty publicaciones}">
 			<c:if test="${!empty publicaciones[0].lImages}">
 				<meta name="twitter:image" content="${publicaciones[0].lImages[0]}">
 			</c:if>
 		</c:if>
-		<meta name="twitter:domain" content="topwebhosting.com">
+		<meta name="twitter:domain" content="comprarhostingweb.com">
 		<!-- end: Twitter tags -->
-		<link rel="canonical" href="http://www.topwebhosting.com/blog"/>		
+		<link rel="canonical" href="http://www.comprarhostingweb.com/blog"/>		
 	</c:when>
 	<c:when test="${fn:contains(pageContext.request.requestURI, 'privacidad')}">
-		<title>Política de privacidad | Top Web Hosting</title> 
-		<meta name="description" content="Política de privacidad y condiciones de uso de Top Web Hosting"/>
+		<title>Política de privacidad | Comprar Hosting Web</title> 
+		<meta name="description" content="Política de privacidad y condiciones de uso de Comprar Hosting Web"/>
 		<meta name="author" content="Pablo Cárdenas" />
-		<meta name="copyright" content="Top Web Hosting" />
+		<meta name="copyright" content="Comprar Hosting Web" />
 		<!-- start: Facebook Open Graph -->
-		<meta property="og:title" content="Política de privacidad de Top Web Hosting"/>
-		<meta property="og:description" content="Política de privacidad y condiciones de uso de Top Web Hosting"/>
-		<meta property="og:url" content="http://www.topwebhosting.com/politica-de-privacidad"/>
-		<meta property="og:site_name" content="Top Web Hosting/"/>
+		<meta property="og:title" content="Política de privacidad de Comprar Hosting Web"/>
+		<meta property="og:description" content="Política de privacidad y condiciones de uso de Comprar Hosting Web"/>
+		<meta property="og:url" content="http://www.comprarhostingweb.com/politica-de-privacidad"/>
+		<meta property="og:site_name" content="Comprar Hosting Web/"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@TopWebHosting">
-		<meta name="twitter:creator" content="@TopWebHosting">
-		<meta name="twitter:title" content="Política de privacidad de Top Web Hosting">
-		<meta name="twitter:description" content="Política de privacidad y condiciones de uso de Top Web Hosting">
-		<meta name="twitter:domain" content="topwebhosting.com/">
-		<link rel="canonical" href="http://www.topwebhosting.com/politica-de-privacidad"/>
+		<meta name="twitter:site" content="@comprarhostingweb">
+		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:title" content="Política de privacidad de Comprar Hosting Web">
+		<meta name="twitter:description" content="Política de privacidad y condiciones de uso de Comprar Hosting Web">
+		<meta name="twitter:domain" content="comprarhostingweb.com/">
+		<link rel="canonical" href="http://www.comprarhostingweb.com/politica-de-privacidad"/>
 		<!-- end: Twitter tags -->		
 	</c:when>	
 	<c:otherwise>
-		<title>Top Web Hosting - Información para comprar hosting</title> 
+		<title>Comprar Hosting Web - Información para comprar hosting</title> 
 		<meta name="description" content="Información para saber dónde comprar hosting y contratar hospedaje web para tu proyecto online a través de nuestros artículos y análisis detallados sobre los mejores proveedores y servicios de alojamiento web."/>
-		<meta name="author" content="Top Web Hosting" />
-		<meta name="copyright" content="Top Web Hosting" />
+		<meta name="author" content="Comprar Hosting Web" />
+		<meta name="copyright" content="Comprar Hosting Web" />
 		<!-- start: Facebook Open Graph -->
-		<meta property="og:title" content="Top Web Hosting - Información para comprar hosting"/>
+		<meta property="og:title" content="Comprar Hosting Web - Información para comprar hosting"/>
 		<meta property="og:description" content="Información para saber dónde comprar hosting y contratar hospedaje web para tu proyecto online a través de nuestros artículos y análisis detallados sobre los mejores proveedores y servicios de alojamiento web."/>
 		<meta property="og:type" content="website"/>
-		<meta property="og:url" content="http://www.topwebhosting.com"/>
-		<meta property="og:image" content="http://www.topwebhosting.com/img/img-meta/logo_grande.jpg"/>
-		<meta property="og:site_name" content="Top Web Hosting"/>
+		<meta property="og:url" content="http://www.comprarhostingweb.com"/>
+		<meta property="og:image" content="http://www.comprarhostingweb.com/img/img-meta/logo_grande.jpg"/>
+		<meta property="og:site_name" content="Comprar Hosting Web"/>
 		<!-- end: Facebook Open Graph -->
 		<!-- start: Twitter tags -->
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@TopWebHosting">
-		<meta name="twitter:creator" content="@TopWebHosting">
-		<meta name="twitter:title" content="Top Web Hosting - Información para comprar hosting">
+		<meta name="twitter:site" content="@comprarhostingweb">
+		<meta name="twitter:creator" content="@comprarhostingweb">
+		<meta name="twitter:title" content="Comprar Hosting Web - Información para comprar hosting">
 		<meta name="twitter:description" content="Información para saber dónde comprar hosting y contratar hospedaje web para tu proyecto online a través de nuestros artículos y análisis detallados sobre los mejores proveedores y servicios de alojamiento web.">
-		<meta name="twitter:image" content="http://www.topwebhosting.com/img/img-meta/logo_grande.jpg">
-		<meta name="twitter:domain" content="topwebhosting.com">
+		<meta name="twitter:image" content="http://www.comprarhostingweb.com/img/img-meta/logo_grande.jpg">
+		<meta name="twitter:domain" content="comprarhostingweb.com">
 		<!-- end: Twitter tags -->				
-		<link rel="canonical" href="http://www.topwebhosting.com"/>
+		<link rel="canonical" href="http://www.comprarhostingweb.com"/>
 	</c:otherwise>		
 	</c:choose>
-	<link rel="alternate" type="application/rss+xml" title="Top Web Hosting RSS Feed" href="http://www.topwebhosting.com/rssfeed" />
+	<link rel="alternate" type="application/rss+xml" title="Comprar Hosting Web RSS Feed" href="http://www.comprarhostingweb.com/rssfeed" />
 	<link href="https://plus.google.com/" rel="publisher" />
 	<style>
 	@font-face {
@@ -376,7 +376,7 @@
 								</ul>
 	              			</li>
 	              			<li id="menuBlog"><a onClick="ga('send', 'event', 'Menu Superior', 'Menu Blog', 'Blog');" title="Blog" href="/blog">Blog</a></li>	              																			
-	              			<li id="menuSobre"><a onClick="ga('send', 'event', 'Menu Superior', 'Menu Sobre', 'Sobre');" title="Sobre nosotros" href="/sobre">Sobre nosotros</a></li>
+	              			<li id="menuAcerca"><a onClick="ga('send', 'event', 'Menu Superior', 'Menu Acerca', 'Acerca');" title="Sobre nosotros" href="/sobre">Acerca de</a></li>
 	              			<li id="menuContacto"><a onClick="ga('send', 'event', 'Menu Superior', 'Menu Contacto', 'Contacto');" title="Contacto" href="/contacto">Contacto</a></li>
 	              			<li id="menuMas" style="margin-top: -8px;"><a title="Más" onClick="ga('send', 'event', 'Menu Superior', 'Menu RSS', 'RSS');" href="#newsletter"><img src="/img/logo_social.png" alt="Más"></a></li>
 	            		</ul>
