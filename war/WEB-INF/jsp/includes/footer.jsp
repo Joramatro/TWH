@@ -192,6 +192,7 @@
 <span itemprop="name">Comprar Hosting Web</span></span></a><i style="margin-top: -18px;" class="ico-color ico-cloud"></i>
 				<a style="margin-left: 19px;" href="/politica-de-privacidad">Política de privacidad</a>					
 				</p>
+				<br><br>
 			</div>
 	
 		</div>
