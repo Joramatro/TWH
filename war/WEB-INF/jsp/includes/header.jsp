@@ -366,7 +366,7 @@
 							<li id="menuInicio">
 	                			<a onClick="ga('send', 'event', 'Menu Superior', 'Menu Inicio', 'Inicio');" href="/">Inicio</a>
 	              			</li>
-	              			<li id="menuOfertas"><a onClick="ga('send', 'event', 'Menu Superior', 'Menu Oferta', 'OfertaHoteles');" title="Oferta de hoteles" href="/ofertas">Hoteles Recomendados</a></li>
+	              			<li id="menuOfertas"><a onClick="ga('send', 'event', 'Menu Superior', 'Menu Oferta', 'OfertaHostings');" title="Oferta de hostings" href="/ofertas">Hostings Recomendados</a></li>
 							<li class="dropdown">
 	                			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Destacados<b class="caret"></b></a>
 	                			<ul class="dropdown-menu">

@@ -82,7 +82,7 @@
     	<h2><i class="ico-keynote ico-white"></i><a id="logout" href="#" class="btn logout">Logout</a></h2>
  Tipo: <select name="tipo" id="tipo">
 				  <option value="AR">Artículo</option>
-				  <option value="EB">Hotel</option>
+				  <option value="EB">Hosting</option>
 				  
 				</select><br><br>
  Portada: <select name="portada" id="portada">
